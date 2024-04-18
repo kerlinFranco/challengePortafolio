@@ -1,0 +1,21 @@
+body{
+    
+}
+header{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    width: 100vw;
+    height: 10vh;
+    background-color: brown;
+    
+    
+}
+
+header p{
+    margin: 0 10px;
+}
+
+.menu{
+    margin:0  2%;
+}
